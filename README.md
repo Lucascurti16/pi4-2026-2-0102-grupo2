@@ -354,6 +354,7 @@ A documentação detalhada encontra-se na pasta [`docs/`](./docs/):
 * **Vinicius Fortes Heinzl (25008058)**
 * **Pedro Henrique Vieira Lima (25018202)** 
 * **Kaue Rodrigues Seixas (23011884)**
+* **Lucas Curti Rodrigues Pinto (25001822)**
 
 **Projeto Integrador IV** — Curso de Análise e Desenvolvimento de Sistemas.  
 Este projeto é de caráter acadêmico e livre para fins de estudo.
